@@ -17,6 +17,7 @@ void presentSort(int a[], int b[],int n, int m, int p, int i){
 	}
 
 }
+// changes
 
 int find(int a[], int b[],int n, int m,int c){
 	int x =b[c];
